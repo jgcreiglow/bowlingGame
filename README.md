@@ -10,5 +10,5 @@ A command line node app that takes a string of bowling frame scores and returns 
 
 3. In your terminal run the command ( npm install ).
 
-4. In your terminal run the command (node bowlingGame.js)
+4. run the command (node bowlingGame.js)
 
